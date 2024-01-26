@@ -5,7 +5,8 @@ name:
 3- PENUGONDA NAGA SUDESHINI
 4- Kenneth Doerflein
 5- Mohammad Bayat
-6- Abhishek Maganalli
+6- Dinakar Cheruku                      //leave this two lines as proof of merge issues
+6- Abhishek Maganalli                   //leave this two lines as proof of merge issues
 7- Harshada Sudhakar Shinde
 8-
 9-
