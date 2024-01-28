@@ -11,8 +11,8 @@ name:
 8- Ayush Dewan
 9- Abhiram Krishnam 
 10-Akshay Sri Kiran Ryali
-11- Bruce Kirschbaum
-12-
+11-Rodney Newton
+12- Bruce Kirschbaum
 13-
 14-
 15-
